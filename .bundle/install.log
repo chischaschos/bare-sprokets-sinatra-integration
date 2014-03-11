@@ -1,0 +1,24 @@
+# Logfile created on 2014-03-11 08:45:42 -0600 by logger.rb/44203
+I, [2014-03-11T08:45:42.713766 #90986]  INFO -- : 0:  tilt (1.4.1) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-11T08:45:42.714142 #90986]  INFO -- : 0:  haml (4.0.5) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/haml-4.0.5.gemspec
+I, [2014-03-11T08:45:42.714474 #90986]  INFO -- : 0:  hike (1.2.3) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-03-11T08:45:42.714835 #90986]  INFO -- : 0:  multi_json (1.9.0) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.9.0.gemspec
+I, [2014-03-11T08:45:42.715112 #90986]  INFO -- : 0:  rack (1.5.2) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-11T08:45:42.715363 #90986]  INFO -- : 0:  rack-protection (1.5.2) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-11T08:45:46.021229 #90986]  INFO -- : 0:  sass (3.3.1) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/sass-3.3.1.gemspec
+I, [2014-03-11T08:45:48.042554 #90986]  INFO -- : 0:  sinatra (1.4.4) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-11T08:45:48.043021 #90986]  INFO -- : 0:  sprockets (2.11.0) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.11.0.gemspec
+I, [2014-03-11T08:45:48.043271 #90986]  INFO -- : 0:  bundler (1.5.1) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-03-11T09:00:09.574718 #91550]  INFO -- : 0:  coffee-script-source (1.7.0) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-03-11T09:00:09.575105 #91550]  INFO -- : 0:  execjs (2.0.2) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-03-11T09:00:09.575379 #91550]  INFO -- : 0:  coffee-script (2.2.0) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-03-11T09:00:09.575647 #91550]  INFO -- : 0:  tilt (1.4.1) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-11T09:00:09.575904 #91550]  INFO -- : 0:  haml (4.0.5) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/haml-4.0.5.gemspec
+I, [2014-03-11T09:00:09.576148 #91550]  INFO -- : 0:  hike (1.2.3) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-03-11T09:00:09.576413 #91550]  INFO -- : 0:  multi_json (1.9.0) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.9.0.gemspec
+I, [2014-03-11T09:00:09.576669 #91550]  INFO -- : 0:  rack (1.5.2) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-11T09:00:09.576923 #91550]  INFO -- : 0:  rack-protection (1.5.2) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-11T09:00:09.577205 #91550]  INFO -- : 0:  sass (3.3.1) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/sass-3.3.1.gemspec
+I, [2014-03-11T09:00:09.577475 #91550]  INFO -- : 0:  sinatra (1.4.4) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-11T09:00:09.577748 #91550]  INFO -- : 0:  sprockets (2.11.0) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.11.0.gemspec
+I, [2014-03-11T09:00:09.578004 #91550]  INFO -- : 0:  bundler (1.5.1) from /Users/emmanueldelgado/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
